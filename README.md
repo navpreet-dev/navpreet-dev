@@ -2,7 +2,7 @@
 
 I'm a web developer and designer from Amritsar, India. I like building fast, good-looking websites and apps — online stores, college sites, salon pages and small tools like attendance trackers.
 
-🌱 **Currently learning:** backend work with Prisma and databases, and getting better at Android with Kotlin.
+🌱 **Currently learning:** backend development with Prisma and databases, and Android apps with Kotlin.
 
 ## 🛠️ Tech I use
 
