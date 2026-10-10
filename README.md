@@ -4,7 +4,9 @@ I'm a web developer and designer from Amritsar, India. I like building fast, goo
 
 💼 **Open to freelance work** · 🌐 Portfolio: [navpreet-dev.github.io](https://navpreet-dev.github.io)
 
-🌱 **Currently learning:** backend work with Prisma and databases, and getting better at Android with Kotlin.
+🚀 **Founder of [Tirva Digital](https://tirva-digital.vercel.app)**, a web studio building fast, modern websites and apps for small businesses.
+
+🌱 **Currently learning:** backend development with Prisma and databases, and Android apps with Kotlin.
 
 ## 🛠️ Tech I use
 
